@@ -2,7 +2,7 @@
 
 Code for "JAL: a JSON algebra for the optimization of JSON queries", by Anne Langerak (Master student at Erasmus University Rotterdam).
 
-All software is written in the programming language Python3 (https://www.python.org/) via JupyterLab/ JupyterNotebook (https://jupyter.org). For the parsing of JSONiq queries I used the JSON engine Rumble that runs on top of Apache Spark (https://www.rumbledb.org). 
+All software is written in the programming language Python3 (https://www.python.org/) via JupyterLab/ JupyterNotebook (https://jupyter.org). For the parsing of JSONiq queries, I used the JSON engine Rumble that runs on top of Apache Spark (https://www.rumbledb.org). 
 
 ## Repository content
 There are two folders contained in this repository:
