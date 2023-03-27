@@ -1,6 +1,6 @@
 # JAL
 
-Code for "JAL: a JSON algebra for the optimization of JSON queries".
+Code belonging to "JAL: a JSON algebra for the optimization of JSON queries".
 
 All software is written in the programming language Python3 (https://www.python.org/) via JupyterLab/ JupyterNotebook (https://jupyter.org). For the parsing of JSONiq queries, we used the JSON engine Rumble that runs on top of Apache Spark (https://www.rumbledb.org).
 
